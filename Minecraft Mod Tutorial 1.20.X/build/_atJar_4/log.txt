@@ -1,0 +1,7 @@
+Java Launcher: /Users/roses/.gradle/jdks/eclipse_adoptium-17-x86_64-os_x/jdk-17.0.10+7/Contents/Home/bin/java
+Arguments: '--inJar, /Users/roses/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.0.38/forge-1.20.4-49.0.38-injected.jar, --outJar, /Users/roses/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.0.38_mapped_parchment_2023.12.10-1.20.2/forge-1.20.4-49.0.38_mapped_parchment_2023.12.10-1.20.2.jar, --logFile, accesstransform.log, --atFile, /Users/roses/Downloads/Minecraft Forge/Minecraft Mod Tutorial 1.20.X/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /Users/roses/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.0.7/accesstransformers-8.0.7-fatjar.jar
+Working directory: /Users/roses/Downloads/Minecraft Forge/Minecraft Mod Tutorial 1.20.X/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
